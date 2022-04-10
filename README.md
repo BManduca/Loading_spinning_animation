@@ -2,5 +2,5 @@
 
 - ⭕ Projeto para ilustrar a animação de um spinning para loading de aplicações 🔄
 
-![Loading e animação do Spinning]()
+![Loading e animação do Spinning](https://raw.githubusercontent.com/BManduca/Loading_spinning_animation/master/thumbnail.jpg)
 
